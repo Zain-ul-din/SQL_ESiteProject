@@ -1,2 +1,2 @@
 
->> SQL Ecommerce Project
+> SQL Ecommerce Project
